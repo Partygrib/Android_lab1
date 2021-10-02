@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">lab1_5</string>
+    <string name="it_s_a_button">It\'s a button</string>
+    <string name="checkbox">CheckBox</string>
+</resources>
