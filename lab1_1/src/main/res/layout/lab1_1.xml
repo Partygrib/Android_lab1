@@ -8,24 +8,26 @@
 
     <Button
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
+        android:layout_height="0dp"
         android:layout_weight="1"
         android:textSize="50sp"
         android:text="@string/cool_button"/>
 
     <ImageView
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
+        android:layout_height="0dp"
         android:layout_weight="1"
         tools:srcCompat="@tools:sample/avatars"
         android:contentDescription="@string/portrait" />
 
     <TextView
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
+        android:layout_height="0dp"
         android:layout_weight="1"
         android:textSize="50sp"
         android:text="@string/some_interesting_text" />
 
 </LinearLayout>
+
+
 
